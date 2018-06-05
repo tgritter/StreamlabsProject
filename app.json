@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Stream Labs Project",
+    "icon": "./logo.png",
+    "version": "1.0.0",
+    "slug": "stream-labs-project",
+    "sdkVersion": "27.0.0",
+    "ios":  {
+      "bundleIdentifier": "com.streamlabs.project"
+    },
+    "android": {
+      "package": "com.streamlabs.project"
+    }
+  }
+}
